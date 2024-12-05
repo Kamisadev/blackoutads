@@ -1,0 +1,25 @@
+{
+    "query": [
+        ".slider-b",
+        "#slider-b",
+        ".module_home_x",
+        ".figure02",
+        "#rendering-content",
+        "center > p > a",
+        "dismissible",
+        "p.center_lnwphp",
+        "ytd-search-pyv-renderer.contents"
+      ],
+   "regex": [
+    "^.*code-block-\\d+.*$",    
+    "^.*white_content\\d+$",     
+    "^.*ads.*$",              
+    "^.*banner.*$",               
+    "^.*tracker.*$"           
+  ],
+    "src": [
+      "Anadvertisement"
+    ],
+    "hide": []
+  }
+  
