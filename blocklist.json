@@ -8,14 +8,15 @@
         "center > p > a",
         "dismissible",
         "p.center_lnwphp",
-        "ytd-search-pyv-renderer.contents"
+        "ytd-search-pyv-renderer.contents",
+        "[class*='HorizontalBannerstyle__Container']"
       ],
    "regex": [
     "^.*code-block-\\d+.*$",    
     "^.*white_content\\d+$",     
-    "^.*ads.*$",              
-    "^.*banner.*$",               
-    "^.*tracker.*$"           
+    "^.*ads.*$",                          
+    "^.*tracker.*$",
+    "HorizontalBannerstyle__Container.*"           
   ],
     "src": [
       "Anadvertisement"
